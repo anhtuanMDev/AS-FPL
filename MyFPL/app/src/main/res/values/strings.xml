@@ -1,0 +1,95 @@
+<resources>
+    <string name="app_name">MyFPL</string>
+
+    <!--    Login-->
+    <string name="branch">Chọn cơ sở</string>
+    <string name="email">Đăng nhập bằng gmail</string>
+    <string name="signup">Đăng ký tài khoản</string>
+    <string name="signin">Đăng nhập tài khoản</string>
+    <string name="name">Họ và tên</string>
+    <string name="password">Mật khẩu</string>
+    <string name="forgot">Quên mật khẩu</string>
+    <string name="change">Đổi mật khẩu</string>
+    <string name="mssv">Mã số sinh viên</string>
+    <string name="phone">Số điện thoại</string>
+
+
+    <!--    Nav bar-->
+    <string name="home">Trang chủ</string>
+    <string name="schedule">Lịch học</string>
+    <string name="mark">Điểm</string>
+    <string name="utilities">tiện ích</string>
+
+    <!--    Home-->
+    <string name="home_activity">Hoạt động</string>
+    <string name="home_study">Học tập</string>
+    <string name="home_fee">Học phí</string>
+
+    <!--    Schedule-->
+    <string name="schedule_subject">Lịch học</string>
+    <string name="schedule_exam">Lịch thi</string>
+    <string name="schedule_checkin">Điểm danh</string>
+
+    <!--    Mark-->
+    <string name="mark_semester">Kì học</string>
+    <string name="mark_history">Lịch sử</string>
+    <string name="mark_scoreBoard">Bảng điểm</string>
+
+    <!--    Utilities-->
+    <string name="utilities_service_header">Dịch vụ trực tuyến</string>
+    <string name="utilities_service_subline">Sử dụng các dịch vụ trực tuyến</string>
+
+    <string name="utilities_fee_header">Học phí</string>
+    <string name="utilities_fee_subline">Thông tin giao dịch, hóa đơn</string>
+
+    <string name="utilities_event_header">Emotion Passport</string>
+    <string name="utilities_event_subline">Sự kiện và lịch sử tham gia sự kiện</string>
+
+    <string name="utilities_community_header">Cộng đồng sinh viên</string>
+    <string name="utilities_community_subline">Thực học, thực nghiệp</string>
+
+    <string name="utilities_survey_header">Khảo sát</string>
+    <string name="utilities_survey_subline">Khảo sát, đánh giá</string>
+
+    <!--    Notification-->
+    <string name="notify">Thông báo</string>
+    <string name="notify_news">Tin mới</string>
+    <string name="notify_follow">Theo dõi</string>
+
+    <!--    Sidebar-->
+    <string name="sidebar_infor">Thông tin cá nhân</string>
+    <string name="sidebar_reward">Khen thưởng/Kỷ luật</string>
+    <string name="sidebar_SMS">SMS</string>
+    <string name="sidebar_qa">Câu hỏi thường gặp</string>
+    <string name="sidebar_updphoto">Cập nhật ảnh thẻ sinh viên</string>
+    <string name="sidebar_setting">Cài đặt</string>
+
+
+    <!--    Others-->
+    <string name="version">2.0.14 - v28</string>
+    <string name="empty">Không có dữ liệu</string>
+    <string name="pick">Chọn danh mục</string>
+    <string name="search">Nhập câu hỏi</string>
+    <string name="emptyMessage">Không có tin nhắn</string>
+    <string name="newFeaature">Tính năng đang phát triển</string>
+    <string name="loading">Đang load xin chờ chút...</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_drawer">Drawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="fake_content">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi. Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue. Ut in risus volutpat libero pharetra tempor. Cras vestibulum bibendum augue. Praesent egestas leo in pede. Praesent blandit odio eu enim. Pellentesque sed dui ut augue blandit sodales. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aliquam nibh. Mauris ac mauris sed pede pellentesque fermentum. Maecenas adipiscing ante non diam sodales hendrerit.
+    </string>
+
+
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyFPL.MySplash" parent="Theme.SplashScreen">
+        <!-- Set the splash screen background, animated icon, and animation
+        duration. -->
+        <item name="windowSplashScreenBackground">@color/orange</item>
+
+
+        <!-- Required for animated icons. -->
+        <item name="windowSplashScreenAnimatedIcon">@drawable/bee</item>
+
+        <!-- Set the theme of the Activity that directly follows your splash
+        screen. This is required. -->
+        <item name="postSplashScreenTheme">@style/Theme.MyFPL</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,3 @@
+Hiên thị swal là không thành công dù đã thêm thành công trong tệp Add
+Lỗi hàm handleDelete không thể xóa
+Không lấy được new trong Edit

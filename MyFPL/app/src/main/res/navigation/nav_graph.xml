@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeMain_Fragment">
+
+    <fragment
+        android:id="@+id/homeMain_Fragment"
+        android:name="com.example.myfpl.fragments.home.HomeMain_Fragment"
+        android:label="fragment_home_main_"
+        tools:layout="@layout/fragment_home_main_" />
+    <fragment
+        android:id="@+id/scheduleMain_Fragment"
+        android:name="com.example.myfpl.fragments.schedule.ScheduleMain_Fragment"
+        android:label="fragment_schedule_main_"
+        tools:layout="@layout/fragment_schedule_main_" />
+    <fragment
+        android:id="@+id/feeMainFragment"
+        android:name="com.example.myfpl.fragments.fee.FeeMainFragment"
+        android:label="fragment_fee_main"
+        tools:layout="@layout/fragment_fee_main" />
+    <fragment
+        android:id="@+id/userMainFragment"
+        android:name="com.example.myfpl.fragments.user.UserMainFragment"
+        android:label="fragment_user_main"
+        tools:layout="@layout/fragment_user_main" />
+</navigation>

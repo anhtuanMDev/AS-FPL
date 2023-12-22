@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/home_nav_graph"
+    app:startDestination="@id/homeStudy_Fragment">
+
+    <fragment
+        android:id="@+id/homeStudy_Fragment"
+        android:name="com.example.myfpl.fragments.home.HomeStudy_Fragment"
+        android:label="fragment_home_study_"
+        tools:layout="@layout/fragment_home_study_" />
+    <fragment
+        android:id="@+id/homeActivity_Fragment"
+        android:name="com.example.myfpl.fragments.home.HomeActivity_Fragment"
+        android:label="fragment_home_activity_"
+        tools:layout="@layout/fragment_home_activity_" />
+    <fragment
+        android:id="@+id/homeFee_Fragment"
+        android:name="com.example.myfpl.fragments.home.HomeFee_Fragment"
+        android:label="fragment_home_fee_"
+        tools:layout="@layout/fragment_home_fee_" />
+</navigation>

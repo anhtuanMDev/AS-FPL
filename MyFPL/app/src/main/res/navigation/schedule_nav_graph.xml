@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/schedule_nav_graph"
+    app:startDestination="@id/scheduleSubject_Fragment">
+
+    <fragment
+        android:id="@+id/scheduleSubject_Fragment"
+        android:name="com.example.myfpl.fragments.schedule.ScheduleSubject_Fragment"
+        android:label="fragment_schedule_subject_"
+        tools:layout="@layout/fragment_schedule_subject_" />
+    <fragment
+        android:id="@+id/scheduleExam_Fragment"
+        android:name="com.example.myfpl.fragments.schedule.ScheduleExam_Fragment"
+        android:label="fragment_schedule_exam_"
+        tools:layout="@layout/fragment_schedule_exam_" />
+    <fragment
+        android:id="@+id/scheduleCheckin_Fragment"
+        android:name="com.example.myfpl.fragments.schedule.ScheduleCheckin_Fragment"
+        android:label="fragment_schedule_checkin_"
+        tools:layout="@layout/fragment_schedule_checkin_" />
+</navigation>
